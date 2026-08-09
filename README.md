@@ -1,16 +1,26 @@
-### Hi, I'm Ibrahima SOW (@sowbiba) 👋
+# Hi, I'm Ibrahima SOW (@sowbiba) 👋
 
-<!--
-**sowbiba/sowbiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-I'm a senegalese developper, passionate and curious about web and software development.
+Senegalese backend developer based in France, 15+ years in the field.
 
-I worked a lot for french/international companies in various domains
+Mostly PHP/Symfony, with four years at **PrestaShop** — first as a core
+developer and maintainer (issues triage, releases, community, public demos),
+then building the module marketplace inside the BackOffice. Before that,
+lead developer on ManoMano's Checkout team and at Profideo.
 
-🔭 I’m currently working from France for an e-Health app editor
+I come from a networks and telecom background (DUT, CCNA), which is probably
+why I still enjoy the infrastructure side: Docker, RabbitMQ, Elasticsearch,
+AWS, CI pipelines.
 
-🌱 I’m currently learning about [NestJS](https://nestjs.com/)
+**Currently**
+- ☕ Java and hexagonal architecture on my day job
+- 🛒 Building [Sen Market](https://sen-market.sn), an e-commerce marketplace
+  for Senegal — from infrastructure to vendor onboarding
+- 🧰 Shipping side products end to end, mostly with Claude Code — see
+  **TTFL Advisor** (NBA fantasy engine) and **Le Coran avec ton Professeur**
+  (Hifz companion) pinned below
+- 🏢 Running Alpha Digital, a small digital agency based in Dakar
 
-📫 How to reach me:
-- By Email : [sowbiba@hotmail.com](mailto:sowbiba@hotmail.com) /  [bibisaw@gmail.com](mailto:bibisaw@gmail.com)
+**Toolbox** — PHP · Symfony · Doctrine · Java · Next.js · VueJS · PostgreSQL ·
+Elasticsearch · RabbitMQ · Docker · AWS · Claude Code
 
+📫 sowbiba@hotmail.com · [@sowbiba](https://x.com/sowbiba)
